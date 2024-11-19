@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5308638-CD24-43D8-A22D-3CC13030E6C7}|Bills\\Bills.csproj|c:\\users\\usuario\\downloads\\bills\\bills\\bills\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5308638-CD24-43D8-A22D-3CC13030E6C7}|Bills\\Bills.csproj|solutionrelative:bills\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5308638-CD24-43D8-A22D-3CC13030E6C7}|Bills\\Bills.csproj|c:\\users\\usuario\\downloads\\bills\\bills\\bills\\models\\fatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5308638-CD24-43D8-A22D-3CC13030E6C7}|Bills\\Bills.csproj|solutionrelative:bills\\models\\fatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5308638-CD24-43D8-A22D-3CC13030E6C7}|Bills\\Bills.csproj|c:\\users\\usuario\\downloads\\bills\\bills\\bills\\views\\cadcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5308638-CD24-43D8-A22D-3CC13030E6C7}|Bills\\Bills.csproj|solutionrelative:bills\\views\\cadcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5308638-CD24-43D8-A22D-3CC13030E6C7}|Bills\\Bills.csproj|C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\bills\\views\\cadcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5308638-CD24-43D8-A22D-3CC13030E6C7}|Bills\\Bills.csproj|solutionrelative:bills\\views\\cadcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5308638-CD24-43D8-A22D-3CC13030E6C7}|Bills\\Bills.csproj|c:\\users\\usuario\\downloads\\bills\\bills\\bills\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5308638-CD24-43D8-A22D-3CC13030E6C7}|Bills\\Bills.csproj|solutionrelative:bills\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5308638-CD24-43D8-A22D-3CC13030E6C7}|Bills\\Bills.csproj|c:\\users\\usuario\\downloads\\bills\\bills\\bills\\views\\cadfatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5308638-CD24-43D8-A22D-3CC13030E6C7}|Bills\\Bills.csproj|solutionrelative:bills\\views\\cadfatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5308638-CD24-43D8-A22D-3CC13030E6C7}|Bills\\Bills.csproj|C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\bills\\views\\cadfatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5308638-CD24-43D8-A22D-3CC13030E6C7}|Bills\\Bills.csproj|solutionrelative:bills\\views\\cadfatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5308638-CD24-43D8-A22D-3CC13030E6C7}|Bills\\Bills.csproj|c:\\users\\usuario\\downloads\\bills\\bills\\bills\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5308638-CD24-43D8-A22D-3CC13030E6C7}|Bills\\Bills.csproj|solutionrelative:bills\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5308638-CD24-43D8-A22D-3CC13030E6C7}|Bills\\Bills.csproj|c:\\users\\usuario\\downloads\\bills\\bills\\bills\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5308638-CD24-43D8-A22D-3CC13030E6C7}|Bills\\Bills.csproj|solutionrelative:bills\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5308638-CD24-43D8-A22D-3CC13030E6C7}|Bills\\Bills.csproj|c:\\users\\usuario\\downloads\\bills\\bills\\bills\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5308638-CD24-43D8-A22D-3CC13030E6C7}|Bills\\Bills.csproj|solutionrelative:bills\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5308638-CD24-43D8-A22D-3CC13030E6C7}|Bills\\Bills.csproj|c:\\users\\usuario\\downloads\\bills\\bills\\bills\\views\\adicionaritemmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5308638-CD24-43D8-A22D-3CC13030E6C7}|Bills\\Bills.csproj|solutionrelative:bills\\views\\adicionaritemmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5308638-CD24-43D8-A22D-3CC13030E6C7}|Bills\\Bills.csproj|C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\bills\\views\\adicionaritemmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5308638-CD24-43D8-A22D-3CC13030E6C7}|Bills\\Bills.csproj|solutionrelative:bills\\views\\adicionaritemmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5308638-CD24-43D8-A22D-3CC13030E6C7}|Bills\\Bills.csproj|c:\\users\\usuario\\downloads\\bills\\bills\\bills\\views\\adicionaritemmodal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5308638-CD24-43D8-A22D-3CC13030E6C7}|Bills\\Bills.csproj|solutionrelative:bills\\views\\adicionaritemmodal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\Bills\\Form1.cs",
+              "RelativeDocumentMoniker": "Bills\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\Bills\\Form1.cs",
+              "RelativeToolTip": "Bills\\Form1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:04:48.302Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:886937096:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CadCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\Bills\\Views\\CadCliente.cs",
+              "RelativeDocumentMoniker": "Bills\\Views\\CadCliente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\Bills\\Views\\CadCliente.cs",
+              "RelativeToolTip": "Bills\\Views\\CadCliente.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIA7wCgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:11:18.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\Bills\\Form1.cs",
+              "RelativeDocumentMoniker": "Bills\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\Bills\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Bills\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:10:01.275Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\Bills\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Bills\\Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\Bills\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "Bills\\Data\\AppDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:49:04.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CadFatura.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\Bills\\Views\\CadFatura.cs",
+              "RelativeDocumentMoniker": "Bills\\Views\\CadFatura.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\Bills\\Views\\CadFatura.cs",
+              "RelativeToolTip": "Bills\\Views\\CadFatura.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAtwCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:47:17.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdicionarItemModal.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\Bills\\Views\\AdicionarItemModal.cs",
+              "RelativeDocumentMoniker": "Bills\\Views\\AdicionarItemModal.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Bills\\Bills\\Views\\AdicionarItemModal.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\Lucas\\source\\repos\\Bills\\Bills\\Views\\AdicionarItemModal.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T00:24:15.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\Bills\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Bills\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\Bills\\Models\\Cliente.cs",
+              "RelativeToolTip": "Bills\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:08:32.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdicionarItemModal.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\Bills\\Views\\AdicionarItemModal.cs",
+              "RelativeDocumentMoniker": "Bills\\Views\\AdicionarItemModal.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\Bills\\Views\\AdicionarItemModal.cs",
+              "RelativeToolTip": "Bills\\Views\\AdicionarItemModal.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T00:53:01.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fatura.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\Bills\\Models\\Fatura.cs",
+              "RelativeDocumentMoniker": "Bills\\Models\\Fatura.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\Bills\\Models\\Fatura.cs",
+              "RelativeToolTip": "Bills\\Models\\Fatura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:17:36.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CadCliente.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\Bills\\Views\\CadCliente.cs",
+              "RelativeDocumentMoniker": "Bills\\Views\\CadCliente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\Bills\\Views\\CadCliente.cs [Projeto]",
+              "RelativeToolTip": "Bills\\Views\\CadCliente.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T00:40:35.226Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CadFatura.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\Bills\\Views\\CadFatura.cs",
+              "RelativeDocumentMoniker": "Bills\\Views\\CadFatura.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\Bills\\Views\\CadFatura.cs [Projeto]",
+              "RelativeToolTip": "Bills\\Views\\CadFatura.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T00:18:03.173Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\Bills\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Bills\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\Bills\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Bills\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:16:14.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdicionarItemModal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\Bills\\Views\\AdicionarItemModal.Designer.cs",
+              "RelativeDocumentMoniker": "Bills\\Views\\AdicionarItemModal.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Bills\\Bills\\Bills\\Views\\AdicionarItemModal.Designer.cs",
+              "RelativeToolTip": "Bills\\Views\\AdicionarItemModal.Designer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAMwI8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T00:53:48.231Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
